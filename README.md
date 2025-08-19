@@ -17,7 +17,7 @@ It supports adding schools and retrieving a list of schools sorted by proximity 
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ishandeep48/Schools-api
 cd Schools-api
 npm install
 ```
